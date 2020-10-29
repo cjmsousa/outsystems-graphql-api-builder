@@ -8,3 +8,6 @@ pyparsing==2.4.7
 six==1.15.0
 toml==0.10.1
 flask==1.1.2
+graphene==2.1.8
+graphql-core==2.3.2
+graphql-relay==2.0.1

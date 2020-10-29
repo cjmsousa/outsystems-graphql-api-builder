@@ -1,1 +1,1 @@
-This is just a tempalate for a python project, that I fork from to start a new project
+Builder that created a GraphQL API for each entity inside OutSystems Product
